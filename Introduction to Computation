@@ -1,0 +1,6 @@
+
+```
+x//y # if x and y are int, it will be equal to int, else float
+
+```
+
